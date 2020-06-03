@@ -27,8 +27,7 @@ namespace STUDY_NOTBOOK
                 {
                     Console.WriteLine(item);
                 }
-            }
-                        
+            }                        
         }
     }
 }
